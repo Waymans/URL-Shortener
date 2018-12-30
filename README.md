@@ -1,4 +1,4 @@
-# View project on <a href="https://url-shortener1-project.glitch.me/" target="_blank">Glitch</a>.
+# View project on [Glitch](https://url-shortener1-project.glitch.me/).
 
 # API Project: URL Shortener Microservice for freeCodeCamp
 
